@@ -26,7 +26,7 @@
     "grunt-template": "~0.2.0",
     "grunt-open": "~0.2.2",
     "bower": "latest",
-    "grunt-contrib-less": "~0.7.0",
+    "grunt-contrib-less": "~2.0.0",
     "grunt-header": "^1.0.0",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-bump": "0.0.16"
